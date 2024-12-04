@@ -2,6 +2,8 @@
 
 Harry-Potter-1-PC-Fps-Fix
 
+IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
+
 This is the Harry Potter 1 PC game FPS fix/ limiter
 
 This Launcher simply patches the game using the internal logic to put a cap on fps to solve issues inside the game relating to fps being to high with no way to limit it.
