@@ -12,7 +12,7 @@ Simply go to release and download the zip file and put hp1-60FPSLauncher.exe int
 
 Use the launcher to run the game now instead of the hp.exe you can make a shortcut of the launcher on your desktop if you wish.
 
-if you have any problems please go to discord for help 
+If you have any issues please go to discord for help 
 
 https://discord.gg/pZwkHrTF8X
 
