@@ -1,7 +1,5 @@
 # Harry-Potter-1-PC-Fps-Fix-
 
-Harry-Potter-1-PC-Fps-Fix
-
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
 
 This is the Harry Potter 1 PC game FPS fix/ limiter
