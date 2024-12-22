@@ -12,7 +12,7 @@ Use the launcher to run the game now instead of the hp.exe you can make a shortc
 
 If you have any issues please go to discord for help 
 
-https://discord.gg/pZwkHrTF8X
+https://discord.gg/eVJ7sQH7Cc
 
 brought to you by the Fix Enhancers Team
 
