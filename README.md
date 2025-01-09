@@ -1,4 +1,4 @@
-# Harry-Potter-1-PC-Fps-Fix-
+# Harry-Potter-and-the-Philosopher’s-Stone-PC-FPS-Fix
 
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
 
