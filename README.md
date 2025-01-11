@@ -16,6 +16,8 @@ https://discord.gg/eVJ7sQH7Cc
 
 brought to you by the Fix Enhancers Team
 
+https://fixenhancers.wixsite.com/fix-enhancers
+
 Team members:
 
 Chip, JokerAlex21.
