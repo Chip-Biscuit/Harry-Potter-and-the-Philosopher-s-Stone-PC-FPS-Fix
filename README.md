@@ -1,5 +1,7 @@
 # Harry-Potter-and-the-Philosopher’s-Stone-PC-FPS-Fix
 
+![HP1_Fixed](https://github.com/user-attachments/assets/c98fee3c-15f5-4313-818a-90b9bd8ecfc3)
+
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD
 
 This is the Harry Potter 1 PC game FPS fix/ limiter
