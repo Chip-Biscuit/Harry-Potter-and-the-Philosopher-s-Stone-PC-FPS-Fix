@@ -1,4 +1,12 @@
 
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Harry Potter and the Philosopher’s Stone/Sorcerer’s Stone PC FPS Fix
 
 ![HP1_Fixed](https://github.com/user-attachments/assets/c98fee3c-15f5-4313-818a-90b9bd8ecfc3)
